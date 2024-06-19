@@ -1,0 +1,14 @@
+../BSP/hw/driver/uart.c:64:6:uartInit	2
+../BSP/hw/driver/uart.c:83:6:uartDeInit	1
+../BSP/hw/driver/uart.c:88:6:uartIsInit	1
+../BSP/hw/driver/uart.c:93:6:uartOpen	10
+../BSP/hw/driver/uart.c:170:6:uartClose	2
+../BSP/hw/driver/uart.c:179:10:uartAvailable	3
+../BSP/hw/driver/uart.c:202:6:uartFlush	3
+../BSP/hw/driver/uart.c:220:9:uartRead	3
+../BSP/hw/driver/uart.c:243:10:uartWrite	4
+../BSP/hw/driver/uart.c:269:10:uartPrintf	1
+../BSP/hw/driver/uart.c:287:10:uartGetBaud	2
+../BSP/hw/driver/uart.c:306:10:uartGetRxCnt	2
+../BSP/hw/driver/uart.c:313:10:uartGetTxCnt	2
+../BSP/hw/driver/uart.c:321:6:cliUart	13

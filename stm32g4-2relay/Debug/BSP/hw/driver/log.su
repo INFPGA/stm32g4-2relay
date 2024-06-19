@@ -1,0 +1,8 @@
+../BSP/hw/driver/log.c:65:6:logInit	8	static
+../BSP/hw/driver/log.c:94:6:logEnable	4	static
+../BSP/hw/driver/log.c:99:6:logDisable	4	static
+../BSP/hw/driver/log.c:104:6:logBoot	16	static
+../BSP/hw/driver/log.c:109:6:logOpen	16	static
+../BSP/hw/driver/log.c:120:6:logBufPrintf	48	static
+../BSP/hw/driver/log.c:154:6:logPrintf	16	static
+../BSP/hw/driver/log.c:189:6:cliCmd	40	static

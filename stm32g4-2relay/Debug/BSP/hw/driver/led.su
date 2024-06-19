@@ -1,0 +1,4 @@
+../BSP/hw/driver/led.c:24:6:ledInit	4	static
+../BSP/hw/driver/led.c:29:6:ledOn	16	static
+../BSP/hw/driver/led.c:36:6:ledOff	16	static
+../BSP/hw/driver/led.c:43:6:ledToggle	16	static

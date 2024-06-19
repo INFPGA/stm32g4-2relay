@@ -1,0 +1,4 @@
+../BSP/common/core/util.c:7:10:utilConvert8ToU32	24	static
+../BSP/common/core/util.c:20:10:utilConvert8ToU16	24	static
+../BSP/common/core/util.c:72:6:utilUpdateCrc	24	static
+../BSP/common/core/util.c:83:5:hex2int	16	static

@@ -1,0 +1,9 @@
+../BSP/common/core/qbuffer.c:7:6:qbufferInit	4	static
+../BSP/common/core/qbuffer.c:12:6:qbufferCreate	32	static
+../BSP/common/core/qbuffer.c:25:6:qbufferCreateBySize	32	static
+../BSP/common/core/qbuffer.c:38:6:qbufferWrite	48	static
+../BSP/common/core/qbuffer.c:73:6:qbufferRead	40	static
+../BSP/common/core/qbuffer.c:107:10:qbufferPeekWrite	16	static
+../BSP/common/core/qbuffer.c:112:10:qbufferPeekRead	16	static
+../BSP/common/core/qbuffer.c:118:10:qbufferAvailable	24	static
+../BSP/common/core/qbuffer.c:128:6:qbufferFlush	16	static
